@@ -8,4 +8,6 @@ This folder contains some random calculations and notes about whether a fantasy 
 
 [Is That Isekai Tower Too High? - Jupyter Notebook](isekai_tower_too_high.ipynb)
 
-This Jupyter Notebook relates tower height, viewing distance, and neck tilt angle against average human field of view and typical medieval town sizes.
+This Jupyter Notebook relates tower height, viewing distance, and neck tilt angle against average human field of view, planetary curvature, and typical medieval town sizes.
+
+Addresses [issue #2](https://github.com/pomodorozhong/random-calculation/issues/2): whether super-tall anime/isekai buildings look visually realistic to the human eye.
