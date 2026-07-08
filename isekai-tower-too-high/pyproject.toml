@@ -1,0 +1,11 @@
+[project]
+name = "isekai-tower-too-high"
+version = "0.1.0"
+description = "Is that isekai tower too high? Random calculations and notes."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "ipykernel>=7.1.0",
+]
