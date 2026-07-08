@@ -1,0 +1,11 @@
+[project]
+name = "horizon-distance"
+version = "0.1.0"
+description = "How far is the horizon — eye height vs distance on a spherical Earth"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "ipykernel>=7.1.0",
+]
